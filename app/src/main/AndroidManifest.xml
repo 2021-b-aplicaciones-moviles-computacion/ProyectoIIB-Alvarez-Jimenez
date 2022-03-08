@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".RegistrarE3"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarRAM3"
+            android:exported="false" />
+        <activity
             android:name=".RegistrarE2"
             android:exported="false" />
         <activity
