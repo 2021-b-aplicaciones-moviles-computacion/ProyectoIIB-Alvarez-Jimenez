@@ -30,6 +30,18 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".RegistrarE3"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarRAM3"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarE2"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarE"
+            android:exported="false" />
+        <activity
             android:name=".RegistrarRAM2"
             android:exported="false" />
         <activity
@@ -59,6 +71,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
