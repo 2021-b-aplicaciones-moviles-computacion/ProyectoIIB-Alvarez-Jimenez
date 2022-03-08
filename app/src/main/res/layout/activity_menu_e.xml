@@ -21,7 +21,7 @@
         app:layout_constraintVertical_bias="0.005">
 
         <ImageButton
-            android:id="@+id/imageButton"
+            android:id="@+id/ib_menu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -52,7 +52,7 @@
     </LinearLayout>
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/iv_residencia"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
@@ -70,9 +70,9 @@
         android:textColor="#000000"
         android:textSize="36sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/imageView2"
-        app:layout_constraintStart_toStartOf="@+id/imageView2"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+        app:layout_constraintEnd_toEndOf="@+id/iv_residencia"
+        app:layout_constraintStart_toStartOf="@+id/iv_residencia"
+        app:layout_constraintTop_toBottomOf="@+id/iv_residencia" />
 
     <TextView
         android:id="@+id/textView8"
@@ -83,13 +83,13 @@
         android:textColor="#000000"
         android:textSize="36sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="@+id/iv_adultos_mayores"
         app:layout_constraintHorizontal_bias="0.442"
-        app:layout_constraintStart_toStartOf="@+id/imageView3"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+        app:layout_constraintStart_toStartOf="@+id/iv_adultos_mayores"
+        app:layout_constraintTop_toBottomOf="@+id/iv_adultos_mayores" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/iv_adultos_mayores"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="36dp"

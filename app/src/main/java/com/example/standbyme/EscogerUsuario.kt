@@ -21,7 +21,7 @@ class EscogerUsuario : AppCompatActivity() {
 
         ivEncargado
             .setOnClickListener{
-                //irActividad(EscogerUsuario::class.java)
+                irActividad(InterfazE::class.java)
             }
     }
 

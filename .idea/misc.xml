@@ -4,9 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_escoger_usuario.xml" value="0.14375" />
+        <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_interfaz_am.xml" value="0.26992753623188404" />
         <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_interfaz_e.xml" value="0.26992753623188404" />
         <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_main.xml" value="0.25679347826086957" />
         <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_menu_e.xml" value="0.26992753623188404" />
+        <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_menu_re.xml" value="0.2" />
+        <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_registrar_ram.xml" value="0.264" />
+        <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/activity_registrar_ram2.xml" value="0.26992753623188404" />
+        <entry key="..\:/src/University/MA/ProyectoIIB-Alvarez-Jimenez/app/src/main/res/layout/fragment_interfaz__e.xml" value="0.26992753623188404" />
       </map>
     </option>
   </component>
