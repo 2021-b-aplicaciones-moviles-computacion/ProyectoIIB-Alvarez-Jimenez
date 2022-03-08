@@ -16,7 +16,7 @@ class EscogerUsuario : AppCompatActivity() {
 
         ivAdultoMayor
             .setOnClickListener{
-                //irActividad(EscogerUsuario::class.java)
+                irActividad(RegistrarRAM::class.java)
             }
 
         ivEncargado
