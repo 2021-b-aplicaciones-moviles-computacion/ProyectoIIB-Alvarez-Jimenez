@@ -12,13 +12,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        irActividad(RegistrarRAM3::class.java)
-        /*
+
+
         val ivInicio = findViewById<TextView>(R.id.iv_inicio)
         ivInicio
             .setOnClickListener{
                 irActividad(EscogerUsuario::class.java)
-            }*/
+            }
     }
 
     fun irActividad(clase: Class<*>){
